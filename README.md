@@ -46,6 +46,6 @@ How:
 
 Parse the article into a document format (PlaintextParser).
 
-OUTPUT:2. Extractive Summarization
+OUTPUT:2. ![Image](https://github.com/user-attachments/assets/8b439ed9-9c03-4eee-a176-d3f09eec785b)
 
 
